@@ -9,11 +9,10 @@ I’m a computational science and music major at Florida State University with a
 
 ## 🛠️ Technical Skills  
 - **Programming Languages**: Python, MATLAB.  
-- **Specialized Tools**:  
-- **Fields of Expertise**: 
 
 ## 📚 Current Projects  
-- Building machine learning models to predict college football/basketball outcomes.  
+- Building machine learning models to predict college football/basketball outcomes.
+- Implementing an extension of the classic "Four Bugs on a Square" problem, placing any number of bugs on the surface of a circle. 
 
 ## 🌟 Fun Facts  
 - Marching Chiefs member: You’ll often find me performing with passion on the field!  
