@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Josh Briley!  
 
 ## 🚀 About Me  
-I’m a computational science and music major at Florida State University with a passion for solving complex problems through innovative coding solutions. My interests lie in numerical simulations, graph algorithms, machine learning, and optimizing wave scattering models. I thrive in collaborative environments and enjoy mentoring others through leadership roles, including being a UROP Leader and a proud brother of Kappa Kappa Psi.  
+I’m a computational science and music major at Florida State University with a passion for solving complex problems through coding solutions. I thrive in collaborative environments and enjoy mentoring others through leadership roles, including being a UROP Leader, section leader in the Marching Chiefs and a brother of Kappa Kappa Psi.  
 
 ## 🎓 Academic & Research Highlights  
 - **UROP Leader**: Mentoring undergraduate students in navigating research challenges and fostering a collaborative learning environment.  
