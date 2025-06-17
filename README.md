@@ -15,7 +15,7 @@ I’m a computational science and music major at Florida State University with a
 - Implementing an extension of the classic "Four Bugs on a Square" problem, placing any number of bugs on the surface of a circle. 
 
 ## 🌟 Fun Facts  
-- Marching Chiefs Section Leader: You’ll often find me performing with passion on the field!  
+- Marching Chiefs Section Leader: You’ll often find me performing and practicing on the field!  
 
 <!---
 joshbriley/joshbriley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
